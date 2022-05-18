@@ -1,10 +1,16 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  margin: 5%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.buttonDiv {
+  margin: 10px;
+  float: right;
 }
 
 @media (prefers-reduced-motion: no-preference) {
