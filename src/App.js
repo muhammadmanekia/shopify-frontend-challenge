@@ -46,7 +46,7 @@ const App = () => {
     setDropdown("");
 
     const configuration = new Configuration({
-      apiKey: "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",
+      apiKey: "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",
     });
     const openai = new OpenAIApi(configuration);
 
